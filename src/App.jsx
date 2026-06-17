@@ -25,7 +25,7 @@ const questions = [
   },
   {
     id: 5, category: "Istituzioni",
-    text: "L'introduzione di una moneta digitale di stato è una misura per modernizzare il sistema finanziario e rendere i pagamenti più sicuri ed efficienti.",
+    text: "L'introduzione di una moneta digitale centralizzata è una misura per modernizzare il sistema finanziario e rendere i pagamenti più sicuri ed efficienti.",
     reverse: true
   },
   {
@@ -35,7 +35,7 @@ const questions = [
   },
   {
     id: 7, category: "Istituzioni",
-    text: "È giusto che il governo installi telecamere e sistemi di sorveglianza negli spazi pubblici per garantire la sicurezza dei cittadini.",
+    text: "È legittimo che il governo installi telecamere e sistemi di sorveglianza negli spazi pubblici per garantire la sicurezza dei cittadini.",
     reverse: true
   },
   // ESOTERISMO
@@ -46,7 +46,7 @@ const questions = [
   },
   {
     id: 9, category: "Esoterismo",
-    text: "L'agenda ecologista è uno strumento delle élite per limitare le libertà individuali e controllare i comportamenti della popolazione.",
+    text: "L'agenda ecologista è principalmente uno strumento delle élite per limitare le libertà individuali e controllare i comportamenti della popolazione.",
     reverse: false
   },
   {
@@ -108,7 +108,7 @@ const questions = [
   },
   {
     id: 21, category: "Politica",
-    text: "Il movimento femminista è stato promosso dalle élite per raddoppiare il gettito fiscale, immettendo le donne nel mercato del lavoro.",
+    text: "Il movimento femminista è stato promosso dalle élite principalmente per raddoppiare il gettito fiscale, immettendo le donne nel mercato del lavoro.",
     reverse: false
   },
   {
@@ -163,14 +163,14 @@ const LEVELS = {
     subtitle: "0–25 punti",
     color: "#2471A3",
     icon: "🏛️",
-    text: "Sei una persona razionale, informata e fiduciosa nelle istituzioni. Credi che il governo faccia del suo meglio, che gli esperti vadano ascoltati e che il dibattito pubblico sia sostanzialmente onesto. Probabilmente hai anche rispettato tutte le restrizioni Covid senza fare troppe domande — anzi, hai scaricato l'app. La realtà ufficiale è la tua zona di comfort, e ci stai benissimo. Bentornato nella Matrix: è più comoda di quanto pensi."
+    text: "Sei una persona razionale, informata e fiduciosa nelle istituzioni. Credi che il governo faccia del suo meglio, che gli esperti vadano ascoltati e che il dibattito pubblico sia sostanzialmente onesto. Probabilmente hai anche rispettato tutte le restrizioni Covid senza fare troppe domande — anzi, hai scaricato l'app. La realtà ufficiale è la tua zona di comfort, e ci stai benissimo."
   },
   2: {
     title: "Lo Scettico Confortevole",
     subtitle: "26–50 punti",
     color: "#148F77",
     icon: "🤔",
-    text: "Hai qualche dubbio, ogni tanto googli cose che non tornano, ma poi chiudi il tab e vai avanti. Sei sveglio quanto basta per fare domande, non abbastanza da perdere il sonno. La maggior parte delle persone sta qui — nel dubbio confortante. Non ti fidi ciecamente, ma nemmeno vai fino in fondo. Il sistema ti sembra sospetto, ma alla fine paghi le tasse e aspetti il tg delle 20."
+    text: "Hai qualche dubbio, ogni tanto googli cose che non tornano, ma poi chiudi il tab e vai avanti. Sei sveglio quanto basta per fare domande, non abbastanza da perdere il sonno. La maggior parte delle persone sta qui — nel dubbio confortante. Non ti fidi ciecamente, ma nemmeno vai fino in fondo. Il sistema ti sembra sospetto, ma alla fine paghi le tasse e aspetti il TG delle 20."
   },
   3: {
     title: "Il Risvegliato",
@@ -184,7 +184,7 @@ const LEVELS = {
     subtitle: "76–100 punti",
     color: "#C0392B",
     icon: "🎩",
-    text: "Alex Jones ti sembra un po' naïf. Hai un canale Telegram preferito, sai cos'è il deep state, e il cappello di alluminio è solo il primo strato di protezione — servono almeno tre. Assange è un eroe, i Rothschild un fatto documentato, e la luna... beh, dipende dal giorno. Il bello è che su qualcosa potresti avere ragione. Il problema è capire su cosa."
+    text: "Alex Jones ti sembra un po' naïf. Hai un canale Telegram preferito, sai cos'è il deep state, e il cappello di alluminio è solo il primo strato di protezione. i Rothschild comandano il mondo e il fluoro nell'acqua rende le rane gay. Il bello è che su qualcosa potresti avere ragione. Il problema è capire su cosa."
   }
 };
 
