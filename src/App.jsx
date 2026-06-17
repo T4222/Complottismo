@@ -113,7 +113,7 @@ const questions = [
   },
   {
     id: 22, category: "Scienza",
-    text: "Siamo soli in questo universo.",
+    text: "L'umanità è entrata in contatto, durante la sua storia, con forme di vita extraterrestri intelligenti.",
     reverse: false
   },
 ];
