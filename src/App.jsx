@@ -103,7 +103,7 @@ const questions = [
   },
   {
     id: 20, category: "Politica",
-    text: "Le politiche woke sono state promosse deliberatamente per frammentare la società, indebolire la famiglia tradizionale e rendere le persone più facilmente controllabili.",
+    text: "Le critical gender theories sono state promosse deliberatamente per frammentare la società, indebolire la famiglia tradizionale e rendere le persone più facilmente controllabili.",
     reverse: false
   },
   {
@@ -112,8 +112,8 @@ const questions = [
     reverse: false
   },
   {
-    id: 22, category: "Politica",
-    text: "Le leggi che liberalizzano l'aborto sono state promosse con l'intenzione di ridurre la popolazione bianca.",
+    id: 22, category: "Scienza",
+    text: "Siamo soli in questo universo.",
     reverse: false
   },
 ];
